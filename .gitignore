@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+.env
+.venv/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Reportes y logs
+reports/
+logs/
+
+# Sistema
+.DS_Store
+Thumbs.db
